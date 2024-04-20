@@ -1,0 +1,44 @@
+.sidebarOption{
+    margin-top: .5rem;
+    display: flex;
+   cursor: pointer;
+   padding: .2rem;
+}
+span{
+    height: 20px;
+    width: 30rem;
+}
+.tweet_icon{
+
+    cursor: pointer;
+    
+}
+.tweet_icon:hover{
+    background-color:rgb(226, 226, 226);
+}
+.sidebarOption:hover{
+    background-color:rgb(226, 226, 226);
+    border: 0 solid black;
+    border-radius: 30px;
+}
+.icon{
+    font-size: 1.4rem;
+    padding-right: .8rem;
+}
+.sidebarOption > h2{
+    font-weight: 300!important;
+    font-size: 25px;
+    margin-right: 20px;
+
+}
+.sidebar_bu {
+     cursor: pointer;
+    background: #1D9BF0 !important;
+    border: none !important;
+    color: rgb(255, 255, 255) !important;
+    font-weight: 900 !important;
+    text-transform: inherit !important;
+    border-radius: 30px !important;
+    height: 40px !important;
+    margin-top: 20px !important;
+  }
